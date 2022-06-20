@@ -24,6 +24,7 @@
 ---
 
 If you have any questions or queries, feel free to contact me at,
+<br>
 [me@shanezzar.com](mailto:me@shanezzar.com)
 
 **Ciao!**
