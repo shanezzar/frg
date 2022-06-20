@@ -1,0 +1,6 @@
+framework module Pods_FRG_FRGUITests {
+  umbrella header "Pods-FRG-FRGUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
